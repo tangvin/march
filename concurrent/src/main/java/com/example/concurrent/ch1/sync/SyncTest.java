@@ -2,7 +2,7 @@ package com.example.concurrent.ch1.sync;
 
 /**
  * @className:
- * @description:
+ * @description: 类说明：synchronized关键字的使用方法
  * @author: Bruce_T
  * @data: 2022/03/04   19:52
  * @version: 1.0
